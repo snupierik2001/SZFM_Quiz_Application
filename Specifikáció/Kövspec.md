@@ -24,6 +24,14 @@ Applikációnkat Kotlin programozási nyelvben szeretnénk fejleszteni, kizáró
 5. Optimalizálása
 6. Véglegesítés
 
+## Igényelt üzleti folyamatok
+
+Applikáció igény külsős cégtől átvétele --> Az igény átbeszélése, ajánlat adása a cégnek <br>
+Cégtől kapott igények megfelelő implementálása applikációs tervbe --> Applikáció elkészítési tervének elkezdése <br>
+Befejezett terv átküldése vezetőségnek --> Vezetőség kommunikációja a céggel, megegyezés után applikáció fejlesztés kezdése <br>
+Fejlesztés közbeni demók készítése a cégnek, visszajelzés kérése --> A cég visszajelez, hogy megfelelően történik a fejlesztés <br>
+Az applikáció véglegesítése és a cégnek történő elküldése --> Cég általi kifizetés, applikáció publikálása
+
 ## Rendszerre vonatkozó szabályok
 
 Az applikáció szabványos eszközökkel készüljön. <br>
