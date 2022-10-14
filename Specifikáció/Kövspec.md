@@ -13,3 +13,13 @@ Számunkra fontos a megfelelő dizájn kialakítása, hogy segítsük ezzel is a
 Quiz applikációnk létrehozásával szeretnénk egy olyan platformot létrehozni, ami nem csak szórakoztatja, de fejleszti is a felhasználókat. <br>
 Célunk, hogy a felhasználóinka quiz játék használata közben könnyedénés játszva képezzék a tudásukat, képességeiket, illetve a készségeiket egyaránt. <br>
 Applikációnkat Kotlin programozási nyelvben szeretnénk fejleszteni, kizárólag mobil eszközön lesz elérhető. <br>
+
+
+## Jelenlegi üzleti folyamatok
+
+1. Új applikációs terv kigondolása
+2. Strukturájának felépítés 
+3. Demo verziók kiadása
+4. Ellenörízése
+5. Optimalizálása
+6. Véglegesítés
