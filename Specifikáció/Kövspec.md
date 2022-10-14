@@ -39,3 +39,10 @@ Az applikáció Kotlin programozási nyelvben íródjon. <br>
 A képek jpeg és png formátumúak lehetnek. <br>
 A felhasználókat azonosító applikáció esetében szükséges jogszabályokat be kell tartani: GDPR <br>
 
+## Követelménylista 
+
+K01. Könnyen navigálható applikáció<br>
+K02. Hangulatos dizájn megoldás <br>
+K03. Felhasználónév elmentése <br>
+K04. Szerzett pontok kimutatása
+
