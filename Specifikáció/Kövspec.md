@@ -23,3 +23,11 @@ Applikációnkat Kotlin programozási nyelvben szeretnénk fejleszteni, kizáró
 4. Ellenörízése
 5. Optimalizálása
 6. Véglegesítés
+
+## Rendszerre vonatkozó szabályok
+
+Az applikáció szabványos eszközökkel készüljön. <br>
+Az applikáció Kotlin programozási nyelvben íródjon. <br>
+A képek jpeg és png formátumúak lehetnek. <br>
+A felhasználókat azonosító applikáció esetében szükséges jogszabályokat be kell tartani: GDPR <br>
+
