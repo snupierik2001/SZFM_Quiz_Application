@@ -46,3 +46,9 @@ K02. Hangulatos dizájn megoldás <br>
 K03. Felhasználónév elmentése <br>
 K04. Szerzett pontok kimutatása
 
+## Fogalomszótár
+
+- GDPR: A GDPR a General Data Protection Regulation kezdőbetűiből képzett mozaikszó, magyarul általános adatvédelmi rendelet.<br>
+- Mobil applikáció: A mobil applikáció egy a mobilokon, azaz okostelefonokon futó szoftver, alkalmazás vagy program. <br>
+- Integrált fejlesztői környezet: Egy olyan szoftveralkalmazás, amely átfogó létesítményeket biztosít a számítógépes programozók számára a szoftverfejlesztéshez. <br>
+- Erősen típusos programozási nyelv: Erősen vagy szigorúan típusos programozási nyelveknek nevezzük azokat a nyelveket, melyekben minden kifejezés és részkifejezés típusa fordítási időben ismert. <br>
