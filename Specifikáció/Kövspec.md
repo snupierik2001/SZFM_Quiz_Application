@@ -27,11 +27,7 @@ Quizlet elsődleges termékei közé tartoznak a digitális flash kártyák, a �
 
 ## Igényelt üzleti folyamatok
 
-Applikáció igény külsős cégtől átvétele --> Az igény átbeszélése, ajánlat adása a cégnek <br>
-Cégtől kapott igények megfelelő implementálása applikációs tervbe --> Applikáció elkészítési tervének elkezdése <br>
-Befejezett terv átküldése vezetőségnek --> Vezetőség kommunikációja a céggel, megegyezés után applikáció fejlesztés kezdése <br>
-Fejlesztés közbeni demók készítése a cégnek, visszajelzés kérése --> A cég visszajelez, hogy megfelelően történik a fejlesztés <br>
-Az applikáció véglegesítése és a cégnek történő elküldése --> Cég általi kifizetés, applikáció publikálása
+![köv.spec](./images/igenyelt_uzleti_folyamatok.png 'Igényelt üzleti folyamatok ábra')
 
 ## Rendszerre vonatkozó szabályok
 
