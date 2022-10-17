@@ -46,3 +46,4 @@ A felhasználó egytől ötig pontozhatja a kérdések hasznosságát/ érdekess
 
 
 ### 1.3 Koncepciós alkamazásbeli navigációs ábra
+> ![funk.spec](./images/quizapplicationconcept.png 'Koncepciós ábra')
