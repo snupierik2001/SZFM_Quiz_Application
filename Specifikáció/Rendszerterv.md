@@ -1,0 +1,30 @@
+# Rendszerterv
+## 1. Bevezetés, az applikáció célja
+
+**Mi a célunk a Kvíz Alkalmazással?**
+
+Szeretnénk, ha az alkalmazásunk kiküszöbölné az alapvető problémákat, amik megjelenhetnek a mai online kvíz alkalmazásokkal.
+
+**- Az alkalmazás adatainak nyilvántartása**
+
+A mobil applikáció egy a mobilokon, azaz okostelefonokon futó szoftver, alkalmazás vagy program.
+Az alapvető, gyárilag feltelepített mobil applikációkon kívül még tölthetünk le olyan alkalmazásokat, amelyek alapvetően ugyan nem érhetőek el a telefonunkon, de a telefonunkra letölthetjük őket.
+Az alábbi paraméterei lehetnek:
+- Általános adatok: kérdések, válaszok, téma, eredmények
+- Felelősök: Minden fejlesztő, aki partnerségben van velünk, vagy nálunk dolgoznak, engedélyezett számukra az alkalmazás fejlesztése
+- Előterjesztők: A tesztelő csapatunk különböző időintervallumonként elkészített demókat ellenőriznek, javaslatokat tesznek a javításokra.
+- Állapotok: Az alkalmazás fejlesztésének számos lépései vannak, ezek a következők:
+   - Tervezés és kutatás
+	    - A tervezési szakasznak azonnal meg kell történnie, miután elképzeltük az alkalmazás ötletét. A "tervezés" itt nem azt jelenti, hogy eldöntjük, hogyan fog kinézni az alkalmazás vagy hogyan programozzuk azt; a tervezési szakasznak inkább arra kell törekednie, hogy több magas szintű kérdést megválaszoljon az elképzeléseinknek a jelenlegi piaci térben való megvalósíthatóságáról.
+   - Prototípuskészítés
+	    - A prototípuskészítés az a szakasz, ahol gyorsan elkezdődik a drótvázak létrehozása és a felhasználói visszajelzések ismétlése. A drótváz felfogható az alkalmazás felhasználói felületének és felhasználói felhasználói élményének alacsony pontosságú útmutatójaként, és általános képet ad az alkalmazás működéséről és folyamatáról anélkül, hogy belemenne a színek vagy stílusok apróbb részleteibe. A drótvázaknak nem kell teljes körűen szerepelniük – csak összpontosítson az alkalmazás alapvető funkcióinak megjelenítésére, és erről visszajelzést kapjon.
+   - Tervezés
+	    - Az alkalmazásfejlesztés tervezési szakaszának számos összetevője van, ezért csak röviden ismertetjük a legfontosabbakat. Először is, az UX és UI tervezők feladata, hogy tovább finomítsák a jóváhagyott drótvázakat. Ez azt jelenti, hogy el kell helyezni és elkészíteni a felhasználói felület elemeit, meghatározni a felhasználói áramlást, megérteni az elemhierarchia fontosságát, stb. Ezen a ponton nagy pontosságú maketteket kell készítenie, amelyeket a fejlesztők működő alkalmazássá alakíthatnak a történések részleteivel együtt.
+   - Fejlesztés
+	    - A fejlesztési szakasz az, ahol ténylegesen elkezdjük írni az alkalmazás „végső” verziójának kódját. Itt használjuk fel a drótvázaktól kapott visszajelzéseket, és hozzunk néhány végső, potenciálisan nagy döntést.
+   - Tesztelés
+	    - Ideális esetben a tesztelés a fejlesztési szakaszsal párhuzamosan történik. Fontos a folyamatos tesztelés, hogy a kiadás utáni költségek alacsonyak legyenek. Az egységtesztekre, a felhasználói felület tesztekre és az integrációs tesztelésre azért van szükség, hogy a lehető legkorábban kijavítsa a nagyobb hibákat vagy hibákat. A tesztesetek megnövelhetik a fejlesztési szakaszban eltöltött időt, de hosszú távon drámaian csökkenthetik a karbantartás és a támogatás idő- és pénzbeli költségeit.
+   - Kiadás
+	    - Itt kell jóváhagyásra beküldenünk alkalmazását a Play Áruház App Store-jába. Ennek a folyamatnak a megtanulása fontos, mivel ezt minden alkalommal meg fogja tenni, amikor kiadja az alkalmazás új verzióját. A fejlesztési folyamat ezen a pontján ki kellett volna javítani a legtöbb főbb hibát, amelyet a tesztelők találtak, és rendelkeznie kellett egy minőségi alkalmazással, amely megfelel az üzletre vonatkozó irányelveknek, ahová feltöltjük.
+   - Karbantartás
+	    - Ez a szakasz valójában a kiadással egy időben kezdődik, és ezzel párhuzamosan kell haladnia. A karbantartás során figyelemmel kísérhetjük az alkalmazás állapotát, kijavíthatjuk az esetlegesen előforduló hibákat, és győződjünk meg arról, hogy az alkalmazás továbbra is a várt módon működik. Az alkalmazás frissítése az operációs rendszer új verzióira, vagy új eszközök támogatása szintén a karbantartás része.
