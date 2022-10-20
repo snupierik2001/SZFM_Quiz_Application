@@ -28,3 +28,37 @@ Az alábbi paraméterei lehetnek:
 	    - Itt kell jóváhagyásra beküldenünk alkalmazását a Play Áruház App Store-jába. Ennek a folyamatnak a megtanulása fontos, mivel ezt minden alkalommal meg fogja tenni, amikor kiadja az alkalmazás új verzióját. A fejlesztési folyamat ezen a pontján ki kellett volna javítani a legtöbb főbb hibát, amelyet a tesztelők találtak, és rendelkeznie kellett egy minőségi alkalmazással, amely megfelel az üzletre vonatkozó irányelveknek, ahová feltöltjük.
    - Karbantartás
 	    - Ez a szakasz valójában a kiadással egy időben kezdődik, és ezzel párhuzamosan kell haladnia. A karbantartás során figyelemmel kísérhetjük az alkalmazás állapotát, kijavíthatjuk az esetlegesen előforduló hibákat, és győződjünk meg arról, hogy az alkalmazás továbbra is a várt módon működik. Az alkalmazás frissítése az operációs rendszer új verzióira, vagy új eszközök támogatása szintén a karbantartás része.
+
+
+**Felhasználói adatok tárolása**
+
+Az alkalmazást bejelentkezve lehet használni, ehhez regisztrálnia kell a felhasználónak, vagy vendégként belépnie.
+A regisztrált felhasználók email és jelszó párossal tudnak bejelentkezni. <br>
+Az alábbi jogosultsági szinteket különböztetjük meg:
+
+   - Felhasználó
+   - Vendég
+
+A felhasználókról nyilvántartott adatok:
+
+- Általános adatok: email cím*, felhasználónév*, jelszó*
+
+
+## 2. Mobilalkalmazás architektúra diagram
+
+![rendszerterv](./images/mobilalkalmazas.png "Architektura diagram") <br>
+Megjegyzés: Az ábra csupán demonstráló értékű.
+
+
+## 3. Adattárolás
+
+A hírportálunk által tárolt személyes információkat JSON fájlban akarjuk tárolni. Ebbe beleértve a felhasználói adatokat, valamint az adminisztrátoraink által <br>ű
+feltöltött cikkeket is (az ő adataik mellett). Az oldalnak képesnek kell lennie eltárolni a megadott adatokat regisztrálás után, valamint beolvasni és értelmezni ezen adatokat bejelentkezéskor, <br>
+valamint a cikkek megjelenítésekor.
+
+
+## 4. Alkalmazás menüjeinek kialakítása
+
+A felhasználói élmény tisztán az ügyfelek elégedettségi szintjének növelésén alapul, és elsősorban az optimális használhatóság és az alkalmazáshoz való jobb hozzáférés biztosítására összpontosít.
+A felhasználói felület tervezőinek az egyértelműségre kell összpontosítaniuk. Használjuk az ismerős gombokat vagy a Call-to-Actions-öket. Az alkalmazás teljesítményének gyorsnak kell lennie.
+Válasszuk ki a megfelelő méretű betűtípusokat, fontos, hogy esztétikus legyen.
