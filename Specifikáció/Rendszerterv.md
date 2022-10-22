@@ -83,6 +83,9 @@ ahol e-mail cím, jelszó és felhasználónév megadása kötelező. A kvíz j�
 kiválasztása után megjelennek a kérdések. Bejelentkezett felhasználó esetén lehetőség van ott folytatni a kérdések megválaszolását, ahol a felhasználó az utóbbi játéka
 során abbahagyta
 
+![rendszerterv](./images/quizapplicationconcept.png "Ábra") <br>
+Megjegyzés: Az ábra csupán demonstráló értékű.
+
 ## 6. Rendszer használatának szabályai
 
 Kvíz applikációnk regisztráció nélkül is elérhető, illetve használható. Regisztrációra bármikor lehetőség van e-mail cím, felhasználó név és jelszó megadásával. A
