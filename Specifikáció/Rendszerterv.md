@@ -115,14 +115,16 @@ követően): adminisztrátor és felhasználó. <br>
 
 ## 7. Fogalomtár
 
-Android Studio: Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA
+**Android Studio:**  <br>
+Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA
 software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems. It is a replacement for
-the Eclipse Android Development Tools (E-ADT) as the primary IDE for native Android application development.
+the Eclipse Android Development Tools (E-ADT) as the primary IDE for native Android application development. <br>
 
-Kotlin: Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, 
+**Kotlin:** <br>
+Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, 
 and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. Kotlin mainly targets 
 the JVM, but also compiles to JavaScript or native code via LLVM Language development costs are borne by JetBrains, while the Kotlin Foundation protects the Kotlin
-trademark.
+trademark. <br>
 
 
 
