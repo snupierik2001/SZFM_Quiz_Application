@@ -75,17 +75,17 @@ szaturált színek használata előnyös a figyelemfelkeltés végett. Illetve l
 
 ## 6. Rendszer használatának szabályai
 
-Kvíz applikációnk regisztráció nélkül is elérhető, illetve használható. Regisztrációra bármikor lehetőség van e-mail cím, felhasználó név és jelszó megadásával. A jelszavas bejelentkezést követően a különböző felhasználói csoportoknak más-más lehetőségeik lesznek a rendszerben. Két felhasználói csoport létezik (bejelentkezést követően): adminisztrátor és felhasználó.
+Kvíz applikációnk regisztráció nélkül is elérhető, illetve használható. Regisztrációra bármikor lehetőség van e-mail cím, felhasználó név és jelszó megadásával. A jelszavas bejelentkezést követően a különböző felhasználói csoportoknak más-más lehetőségeik lesznek a rendszerben. Két felhasználói csoport létezik (bejelentkezést követően): adminisztrátor és felhasználó. <br>
 
-Felhasználó:
--Eléri az összes kvíz kérdést 
--Eléri az összes témakört
--Lehetősége van megtekinteni a meg nem válaszolt kérdéseket
--Lehetősége van megtekinteni az eddigi elért pontszámát
--Lehetősége van megtekinteni az eddigi teljesítményét
--Lehetősége van megtekinteni az eddigi fejlődését
--Értékelheti az eddigi megválaszolt kérdéseket
--Értékelheti a témaköröket
+**Felhasználó:** <br>
+	-Eléri az összes kvíz kérdést <br>
+	-Eléri az összes témakört <br>
+	-Lehetősége van megtekinteni a meg nem válaszolt kérdéseket <br>
+	-Lehetősége van megtekinteni az eddigi elért pontszámát <br>
+	-Lehetősége van megtekinteni az eddigi teljesítményét <br>
+	-Lehetősége van megtekinteni az eddigi fejlődését <br>
+	-Értékelheti az eddigi megválaszolt kérdéseket <br>
+	-Értékelheti a témaköröket <br>
 
 Adminisztrátor:
 -Minden általa közzétett kvíz kérdést teljes jogkörrel módosíthat
