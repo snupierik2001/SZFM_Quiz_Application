@@ -5,7 +5,7 @@
 
 Szeretnénk, ha az alkalmazásunk kiküszöbölné az alapvető problémákat, amik megjelenhetnek a mai online kvíz alkalmazásokkal.
 
-**- Az alkalmazás adatainak nyilvántartása**
+**Az alkalmazás adatainak nyilvántartása**
 
 A mobil applikáció egy a mobilokon, azaz okostelefonokon futó szoftver, alkalmazás vagy program.
 Az alapvető, gyárilag feltelepített mobil applikációkon kívül még tölthetünk le olyan alkalmazásokat, amelyek alapvetően ugyan nem érhetőek el a telefonunkon, de a telefonunkra letölthetjük őket.
@@ -39,7 +39,7 @@ Az alábbi jogosultsági szinteket különböztetjük meg:
    - Felhasználó
    - Vendég
 
-A felhasználókról nyilvántartott adatok:
+**A felhasználókról nyilvántartott adatok:**
 
 - Általános adatok: email cím*, felhasználónév*, jelszó*
 
