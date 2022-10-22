@@ -61,3 +61,16 @@ feltöltött kvíz kérdéseket is (az ő adataik mellett). Az oldalnak képesne
 A felhasználói élmény tisztán az ügyfelek elégedettségi szintjének növelésén alapul, és elsősorban az optimális használhatóság és az alkalmazáshoz való jobb hozzáférés biztosítására összpontosít.
 A felhasználói felület tervezőinek az egyértelműségre kell összpontosítaniuk. Használjuk az ismerős gombokat vagy a Call-to-Actions-öket. Az alkalmazás teljesítményének gyorsnak kell lennie.
 Válasszuk ki a megfelelő méretű betűtípusokat, fontos, hogy esztétikus legyen.
+
+## 5. Az applikációhoz használt szoftver
+
+Kvíz játék alkalmazásunkat Android eszközökre tervezzük. Ebből kifolyólag az Android Studio nevű szoftvert fogjuk használni alkalmazásunk fejlesztéséhez. Az Android Studio nélkül nem beszélhetünk androidos alkalmazásfejlesztésről. Ez a legalapvetőbb eszköz az Android fejlesztők számára. A Google 2013-ban hozta létre, és mára nagyjából az Android fejlesztők alapszoftverévé vált. Azért nagyszerű eszköz, mert a Google támogatását, valamint a fejlesztők nagy közösségét élvezi. Applikációnk Kotlin programozási nyelvben fog íródni. 
+
+
+
+
+
+
+
+
+
