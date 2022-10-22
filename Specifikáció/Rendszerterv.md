@@ -64,7 +64,14 @@ Válasszuk ki a megfelelő méretű betűtípusokat, fontos, hogy esztétikus le
 
 ## 5. Az applikációhoz használt szoftver
 
-Kvíz játék alkalmazásunkat Android eszközökre tervezzük. Ebből kifolyólag az Android Studio nevű szoftvert fogjuk használni alkalmazásunk fejlesztéséhez. Az Android Studio nélkül nem beszélhetünk androidos alkalmazásfejlesztésről. Ez a legalapvetőbb eszköz az Android fejlesztők számára. A Google 2013-ban hozta létre, és mára nagyjából az Android fejlesztők alapszoftverévé vált. Azért nagyszerű eszköz, mert a Google támogatását, valamint a fejlesztők nagy közösségét élvezi. Applikációnk Kotlin programozási nyelvben fog íródni. 
+Kvíz játék alkalmazásunkat Android eszközökre tervezzük. Ebből kifolyólag az Android Studio nevű szoftvert fogjuk használni alkalmazásunk fejlesztéséhez.
+Az Android Studio nélkül nem beszélhetünk androidos alkalmazásfejlesztésről. Ez a legalapvetőbb eszköz az Android fejlesztők számára. A Google 2013-ban hozta létre, és mára nagyjából az Android fejlesztők alapszoftverévé vált. Azért nagyszerű eszköz, mert a Google támogatását, valamint a fejlesztők nagy közösségét élvezi. Applikációnk Kotlin programozási nyelvben fog íródni. 
+
+## 5. Az applikáció megjelenítése
+
+Applikációnk fejlesztése során törekszünk arra, hogy esztétikus alkalmazást tudjunk létrehozni.
+A színeknek harmónikusaknak kell lenniük, hogy ne zavarja a felhasználók látását, ugyanakkor
+szaturált színek használata előnyös a figyelemfelkeltés végett. Illetve létrehozásra kerül egy sötét üzemmód is, hogy felhasználóink zavartalanul tudják használni kvíz játékunkat akár egy sötétebb környezetben is. 
 
 
 
