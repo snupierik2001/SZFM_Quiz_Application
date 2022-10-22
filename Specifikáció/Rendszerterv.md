@@ -96,9 +96,9 @@ Kvíz applikációnk regisztráció nélkül is elérhető, illetve használhat�
 -Már hozzáadott témakört törölhet <br>
 -Hozzáfér a rendszerfelületi modulhoz <br>
 
-Vendég:
--Eléri az összes kvíz kérdést
--Eléri az összes témakört
+**Vendég:** <br>
+-Eléri az összes kvíz kérdést <br>
+-Eléri az összes témakört <br>
 
 
 
