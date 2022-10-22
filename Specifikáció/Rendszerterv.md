@@ -71,7 +71,7 @@ Az Android Studio nélkül nem beszélhetünk androidos alkalmazásfejlesztésr�
 
 Applikációnk fejlesztése során törekszünk arra, hogy esztétikus alkalmazást tudjunk létrehozni.
 A színeknek harmónikusaknak kell lenniük, hogy ne zavarja a felhasználók látását, ugyanakkor
-szaturált színek használata előnyös a figyelemfelkeltés végett. Illetve létrehozásra kerül egy sötét üzemmód is, hogy felhasználóink zavartalanul tudják használni kvíz játékunkat akár egy sötétebb környezetben is. 
+szaturált színek használata előnyös a figyelemfelkeltés végett. Illetve létrehozásra kerül egy sötét üzemmód is, hogy felhasználóink zavartalanul tudják használni kvíz játékunkat akár egy sötétebb környezetben is. Fontosnak tartjuk, hogy egy könnyen kezelhető, illetve felhasználóbarát kvíz alkalmazást tudjunk létrehozni, amit kicsik és nagyok is egyaránt élvezni tudjanak. Könnyen kezelhetőség érdekében letisztult formákat, ikonokat és dizájnt használunk. Külön ablakban lesz sor a regisztrációra, ahol e-mail cím, jelszó és felhasználónév megadása kötelező.
 
 ## 6. Rendszer használatának szabályai
 
