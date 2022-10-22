@@ -87,14 +87,14 @@ Kvíz applikációnk regisztráció nélkül is elérhető, illetve használhat�
 	-Értékelheti az eddigi megválaszolt kérdéseket <br>
 	-Értékelheti a témaköröket <br>
 
-Adminisztrátor:
--Minden általa közzétett kvíz kérdést teljes jogkörrel módosíthat
--Minden általa közzétett kvíz témakört teljes jogkörrel módosíthat
--Új kérdésekkel bővíthetje a különböző témaköröket
--Új témakörökkel bővíthetje az alkalmazást
--Már hozzáadott kérdéseket törölhet
--Már hozzáadott témakört törölhet
--Hozzáfér a rendszerfelületi modulhoz
+**Adminisztrátor:** <br>
+-Minden általa közzétett kvíz kérdést teljes jogkörrel módosíthat <br>
+-Minden általa közzétett kvíz témakört teljes jogkörrel módosíthat <br>
+-Új kérdésekkel bővíthetje a különböző témaköröket <br>
+-Új témakörökkel bővíthetje az alkalmazást <br>
+-Már hozzáadott kérdéseket törölhet <br>
+-Már hozzáadott témakört törölhet <br>
+-Hozzáfér a rendszerfelületi modulhoz <br>
 
 Vendég:
 -Eléri az összes kvíz kérdést
