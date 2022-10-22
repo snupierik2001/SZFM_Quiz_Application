@@ -53,29 +53,41 @@ Megjegyzés: Az ábra csupán demonstráló értékű.
 ## 3. Adattárolás
 
 A kvíz alkalmazásunk által tárolt személyes információkat JSON fájlban akarjuk tárolni. Ebbe beleértve a felhasználói adatokat, valamint az adminisztrátoraink által
-feltöltött kvíz kérdéseket is (az ő adataik mellett). Az oldalnak képesnek kell lennie eltárolni a megadott adatokat regisztrálás után, valamint beolvasni és értelmezni ezen adatokat bejelentkezéskor, valamint az alkalmazás használata közben is.
+feltöltött kvíz kérdéseket is (az ő adataik mellett). Az oldalnak képesnek kell lennie eltárolni a megadott adatokat regisztrálás után, valamint beolvasni és
+értelmezni ezen adatokat bejelentkezéskor, valamint az alkalmazás használata közben is.
 
 
 ## 4. Alkalmazás menüjeinek kialakítása
 
-A felhasználói élmény tisztán az ügyfelek elégedettségi szintjének növelésén alapul, és elsősorban az optimális használhatóság és az alkalmazáshoz való jobb hozzáférés biztosítására összpontosít.
-A felhasználói felület tervezőinek az egyértelműségre kell összpontosítaniuk. Használjuk az ismerős gombokat vagy a Call-to-Actions-öket. Az alkalmazás teljesítményének gyorsnak kell lennie.
+A felhasználói élmény tisztán az ügyfelek elégedettségi szintjének növelésén alapul, és elsősorban az optimális használhatóság és az alkalmazáshoz való jobb hozzáférés
+biztosítására összpontosít.
+A felhasználói felület tervezőinek az egyértelműségre kell összpontosítaniuk. Használjuk az ismerős gombokat vagy a Call-to-Actions-öket. Az alkalmazás
+teljesítményének gyorsnak kell lennie.
 Válasszuk ki a megfelelő méretű betűtípusokat, fontos, hogy esztétikus legyen.
 
 ## 5. Az applikációhoz használt szoftver
 
 Kvíz játék alkalmazásunkat Android eszközökre tervezzük. Ebből kifolyólag az Android Studio nevű szoftvert fogjuk használni alkalmazásunk fejlesztéséhez.
-Az Android Studio nélkül nem beszélhetünk androidos alkalmazásfejlesztésről. Ez a legalapvetőbb eszköz az Android fejlesztők számára. A Google 2013-ban hozta létre, és mára nagyjából az Android fejlesztők alapszoftverévé vált. Azért nagyszerű eszköz, mert a Google támogatását, valamint a fejlesztők nagy közösségét élvezi. Applikációnk Kotlin programozási nyelvben fog íródni. 
+Az Android Studio nélkül nem beszélhetünk androidos alkalmazásfejlesztésről. Ez a legalapvetőbb eszköz az Android fejlesztők számára. A Google 2013-ban hozta létre, 
+és mára nagyjából az Android fejlesztők alapszoftverévé vált. Azért nagyszerű eszköz, mert a Google támogatását, valamint a fejlesztők nagy közösségét élvezi.
+Applikációnk Kotlin programozási nyelvben fog íródni. 
 
 ## 5. Az applikáció megjelenítése
 
 Applikációnk fejlesztése során törekszünk arra, hogy esztétikus alkalmazást tudjunk létrehozni.
 A színeknek harmónikusaknak kell lenniük, hogy ne zavarja a felhasználók látását, ugyanakkor
-szaturált színek használata előnyös a figyelemfelkeltés végett. Illetve létrehozásra kerül egy sötét üzemmód is, hogy felhasználóink zavartalanul tudják használni kvíz játékunkat akár egy sötétebb környezetben is. Fontosnak tartjuk, hogy egy könnyen kezelhető, illetve felhasználóbarát kvíz alkalmazást tudjunk létrehozni, amit kicsik és nagyok is egyaránt élvezni tudjanak. Könnyen kezelhetőség érdekében letisztult formákat, ikonokat és dizájnt használunk. Külön ablakban lesz sor a regisztrációra, ahol e-mail cím, jelszó és felhasználónév megadása kötelező.
+szaturált színek használata előnyös a figyelemfelkeltés végett. Illetve létrehozásra kerül egy sötét üzemmód is, hogy felhasználóink zavartalanul tudják használni kvíz
+játékunkat akár egy sötétebb környezetben is. Fontosnak tartjuk, hogy egy könnyen kezelhető, illetve felhasználóbarát kvíz alkalmazást tudjunk létrehozni, amit kicsik 
+és nagyok is egyaránt élvezni tudjanak. Könnyen kezelhetőség érdekében letisztult formákat, ikonokat és dizájnt használunk. Külön ablakban lesz sor a regisztrációra,
+ahol e-mail cím, jelszó és felhasználónév megadása kötelező. A kvíz játékunk különböző témakörei szintén egy egy másik ablakban lesz megjelenítve. A témakör sikeres
+kiválasztása után megjelennek a kérdések. Bejelentkezett felhasználó esetén lehetőség van ott folytatni a kérdések megválaszolását, ahol a felhasználó az utóbbi játéka
+során abbahagyta
 
 ## 6. Rendszer használatának szabályai
 
-Kvíz applikációnk regisztráció nélkül is elérhető, illetve használható. Regisztrációra bármikor lehetőség van e-mail cím, felhasználó név és jelszó megadásával. A jelszavas bejelentkezést követően a különböző felhasználói csoportoknak más-más lehetőségeik lesznek a rendszerben. Két felhasználói csoport létezik (bejelentkezést követően): adminisztrátor és felhasználó. <br>
+Kvíz applikációnk regisztráció nélkül is elérhető, illetve használható. Regisztrációra bármikor lehetőség van e-mail cím, felhasználó név és jelszó megadásával. A
+jelszavas bejelentkezést követően a különböző felhasználói csoportoknak más-más lehetőségeik lesznek a rendszerben. Két felhasználói csoport létezik (bejelentkezést 
+követően): adminisztrátor és felhasználó. <br>
 
 **Felhasználó:** <br>
 	-Eléri az összes kvíz kérdést <br>
