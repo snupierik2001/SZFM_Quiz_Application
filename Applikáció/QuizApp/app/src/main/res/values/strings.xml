@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kvíz applikáció</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Jelszó</string>
+    <string name="confirm_password_hint">Jelszó ismét</string>
+    <string name="registration_title">Regisztráció</string>
+    <string name="create_profile_btn">FIók létrehozása</string>
+    <string name="already_user_link">Már van fiókja? Jelentkezzen be!</string>
+    <string name="login_title">Bejelentkezés</string>
+    <string name="goto_registration">Nincs még fiókja? Regisztráljon!</string>
+    <string name="login_btn">Bejelentkezés</string>
+    <string name="login_as_guest">Bejelentkezés vendégként</string>
+    <string name="enter_name">Kérem adjon meg egy nevet</string>
+    <string name="name_hint">Név</string>
+    <string name="next_to_quiz_btn">Tovább a kvízre</string>
+    <string name="choose_from_the_btns">Válasszon az alábbi opciók közül:</string>
+    <string name="login_with_profile">Bejelentkezés fiókkal</string>
+    <string name="login_without_profile">Bejelentkezés vendégként</string>
+</resources>
