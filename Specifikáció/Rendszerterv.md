@@ -73,7 +73,7 @@ Az Android Studio nélkül nem beszélhetünk androidos alkalmazásfejlesztésr�
 és mára nagyjából az Android fejlesztők alapszoftverévé vált. Azért nagyszerű eszköz, mert a Google támogatását, valamint a fejlesztők nagy közösségét élvezi.
 Applikációnk Kotlin programozási nyelvben fog íródni. 
 
-## 5. Az applikáció megjelenítése
+## 6. Az applikáció megjelenítése
 
 Applikációnk fejlesztése során törekszünk arra, hogy esztétikus alkalmazást tudjunk létrehozni.
 A színeknek harmónikusaknak kell lenniük, hogy ne zavarja a felhasználók látását, ugyanakkor
@@ -87,7 +87,7 @@ során abbahagyta.
 ![rendszerterv](./images/quizapplicationconcept.png "Ábra") <br>
 Megjegyzés: Az ábra csupán demonstráló értékű.
 
-## 6. Rendszer használatának szabályai
+## 7. Rendszer használatának szabályai
 
 Kvíz applikációnk regisztráció nélkül is elérhető, illetve használható. Regisztrációra bármikor lehetőség van e-mail cím, felhasználó név és jelszó megadásával. A
 jelszavas bejelentkezést követően a különböző felhasználói csoportoknak más-más lehetőségeik lesznek a rendszerben. Két felhasználói csoport létezik (bejelentkezést 
@@ -116,7 +116,7 @@ követően): adminisztrátor és felhasználó. <br>
 -Eléri az összes kvíz kérdést <br>
 -Eléri az összes témakört <br>
 
-## 7. A vízesés (waterfall) modell <br>
+## 8. A vízesés (waterfall) modell <br>
 A vízesés modell a lineáris módszertan egyik legismertebb képviselője. Az amerikai haditengerészet által létrehozott módszert katonai szoftverek magas szintű 
 kivitelezéséhez alakították ki. A módszertan lényege, hogy a fejlesztést több részfolyamatra bontják és minden fázist az előző jóváhagyása és befejezése után
 indítanak el. A folyamat kidolgozása előre meghatározott sorrendben történik, így nagy hangsúlyt kell fektetni a rendszer megtervezésére. A módszertan előnye, hogy
@@ -129,7 +129,7 @@ nem csak szoftverfejlesztési, hanem termékfejlesztési területen kiválóan a
 	-Az ügyfél részéről nem igényel olyan nagy mértékű bevonódást mint az agilis fejlesztés.<br>
 	-Mivel a projekt korai szakaszában megtervezésre kerülnek az egyes szoftver elemek, később ezek fejlesztés párhuzamosan is folyhat, ezért gyorsabb a fejlesztés mint az agilis módszertan.<br>
 
-## 8. Fogalomtár
+## 9. Fogalomtár
 
 **Android Studio:**  <br>
 Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA
