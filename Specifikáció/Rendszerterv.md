@@ -129,7 +129,14 @@ nem csak szoftverfejlesztési, hanem termékfejlesztési területen kiválóan a
 	-Az ügyfél részéről nem igényel olyan nagy mértékű bevonódást mint az agilis fejlesztés.<br>
 	-Mivel a projekt korai szakaszában megtervezésre kerülnek az egyes szoftver elemek, később ezek fejlesztés párhuzamosan is folyhat, ezért gyorsabb a fejlesztés mint az agilis módszertan.<br>
 
-## 9. Fogalomtár
+## 9. Marketing <br>
+
+Az applikációban nem lesznek reklámok mivel nem szeretnénk, hogy a felhasználóinkra negatív hatással legyenek a	folyamatosan megjelenő reklámok. Ezt nem azt jelenti, 
+hogy más applikációkban nem szerepelhetnek a mi applikációnkról reklám. Szeretnénk ezt több multimédiás felületen feltüntetni, hogy minél többen tudjanak a quiz
+appról.<br>
+
+
+## 10. Fogalomtár
 
 **Android Studio:**  <br>
 Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA
@@ -143,10 +150,15 @@ the JVM, but also compiles to JavaScript or native code via LLVM Language develo
 trademark. <br>
 
 **Firebase:** <br>
-Firebase is a set of hosting services for any type of application (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). It offers NoSQL and real-time hosting of databases, content, social authentication (Google, Facebook, Twitter and Github), and notifications, or services, such as a real-time communication server.
-Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites.
-After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. 
-Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it. They founded Firebase as a separate company in 2011 and it launched to the public in April 2012
+Firebase is a set of hosting services for any type of application (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). It offers NoSQL and real-time hosting
+of databases, content, social authentication (Google, Facebook, Twitter and Github), and notifications, or services, such as a real-time communication server.
+Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of 
+online chat functionality into their websites.
+After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to 
+sync application data such as game state in real time across their users. 
+Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it. They founded Firebase as a separate company in 2011 and it launched 
+to the public in April 2012
+
 
 
 
