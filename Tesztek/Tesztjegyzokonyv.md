@@ -46,7 +46,7 @@
     Konklúzió: A teszt sikerességgel zárult
     Megjegyzés: Az felületek funkcionalitásainak megvalósítása következik
     
-### 4. teszt: A vendég belépési felület megjelenítésének tesztelése, reszponzivitás
+### 5. teszt: A vendég belépési felület megjelenítésének tesztelése, reszponzivitás
 
     Tesztelő neve: Kovács Erik
     Tesztelés ideje: 2022.10.30. 20:12
