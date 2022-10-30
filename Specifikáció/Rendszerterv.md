@@ -129,6 +129,12 @@ and the JVM version of Kotlin's standard library depends on the Java Class Libra
 the JVM, but also compiles to JavaScript or native code via LLVM Language development costs are borne by JetBrains, while the Kotlin Foundation protects the Kotlin
 trademark. <br>
 
+**Firebase:** <br>
+Firebase is a set of hosting services for any type of application (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). It offers NoSQL and real-time hosting of databases, content, social authentication (Google, Facebook, Twitter and Github), and notifications, or services, such as a real-time communication server.
+Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites.
+After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. 
+Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it. They founded Firebase as a separate company in 2011 and it launched to the public in April 2012
+
 
 
 
