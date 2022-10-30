@@ -139,30 +139,21 @@ appról.<br>
 ## 10. Fogalomtár
 
 **Android Studio:**  <br>
-Az Android Studio a Google Android operációs rendszerének hivatalos integrált fejlesztőkörnyezete (IDE), amely a JetBrains IntelliJ IDEA-ra épül.
-szoftverre épül, és kifejezetten Android-fejlesztésre tervezték. Letölthető Windows, macOS és Linux alapú operációs rendszerekre. Ez a program helyettesíti a
-az Eclipse Android Development Tools (E-ADT) mint a natív Android alkalmazások fejlesztéséhez használt elsődleges IDE. <br>
+Az Android Studio a Google Android operációs rendszerének hivatalos integrált fejlesztőkörnyezete (IDE), amely a JetBrains IntelliJ IDEA szoftverére épül, és amelyet
+kifejezetten Android-fejlesztésre terveztek. Letölthető Windows, macOS és Linux alapú operációs rendszerekre. Az Eclipse Android Development Tools (E-ADT) 
+helyettesítésére szolgál, mint a natív Android-alkalmazások fejlesztésének elsődleges IDE-je. <br>
 
 **Kotlin:** <br>
-A Kotlin egy platformokon átívelő, statikusan tipizált, általános célú programozási nyelv típuskövetkeztetéssel. A Kotlint úgy tervezték, hogy teljes mértékben együttműködjön a Javával, 
-és a Kotlin szabványkönyvtárának JVM-verziója a Java Class Library-től függ, de a típuskövetés lehetővé teszi, hogy szintaxisa tömörebb legyen. A Kotlin elsősorban a következőket célozza 
-JVM-et célozza, de az LLVM segítségével JavaScript vagy natív kódba is fordítható A nyelvfejlesztési költségeket a JetBrains viseli, míg a Kotlin Foundation védi a Kotlin védjegyet. <br>
+Kotlin: A Kotlin egy platformokon átívelő, statikusan tipizált, általános célú programozási nyelv típuskövetkeztetéssel. A Kotlint úgy tervezték, hogy teljes mértékben
+együttműködjön a Javával, és a Kotlin szabványkönyvtárának JVM-verziója a Java Class Librarytől függ, de a típusbecslés lehetővé teszi, hogy szintaxisa tömörebb 
+legyen. A Kotlin elsősorban a JVM-et célozza meg, de az LLVM segítségével JavaScriptre vagy natív kódra is fordítható A nyelvfejlesztési költségeket a JetBrains 
+viseli, míg a Kotlin Foundation védi a Kotlin védjegyet.
 
 **Firebase:** <br>
-A Firebase egy sor tárhelyszolgáltatás bármilyen típusú alkalmazáshoz (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). NoSQL és valós idejű tárhelyet kínál
-adatbázisok, tartalmak, közösségi hitelesítés (Google, Facebook, Twitter és Github) és értesítések, illetve szolgáltatások, például valós idejű kommunikációs szerver.
-A Firebase a James Tamplin és Andrew Lee által 2011-ben alapított Envolve nevű korábbi startupból fejlődött ki. Az Envolve olyan API-t biztosított a fejlesztőknek, amely lehetővé teszi az integrációt a 
-online csevegőfunkciókat a webhelyeikbe.
-A csevegőszolgáltatás kiadása után Tamplin és Lee azt tapasztalta, hogy azt olyan alkalmazási adatok átadására használták, amelyek nem csevegőüzenetek voltak. A fejlesztők az Envolve-ot arra használták, hogy 
-az alkalmazásadatokat, például a játék állapotát szinkronizálják valós időben a felhasználóik között. 
-Tamplin és Lee úgy döntött, hogy szétválasztják a csevegő rendszert és az azt működtető valós idejű architektúrát. 2011-ben alapították meg a Firebase-t különálló vállalatként, és elindították a 
-a nyilvánosság számára 2012 áprilisában.
-
-
-
-
-
-
-
-
-
+A Firebase egy sor tárhelyszolgáltatás bármilyen típusú alkalmazáshoz (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). NoSQL és valós idejű tárhelyet 
+kínál adatbázisok, tartalmak, közösségi hitelesítés (Google, Facebook, Twitter és Github) és értesítések, illetve szolgáltatások, például valós idejű kommunikációs 
+szerver. A Firebase a James Tamplin és Andrew Lee által 2011-ben alapított Envolve nevű korábbi startupból fejlődött ki. Az Envolve olyan API-t biztosított a 
+fejlesztőknek, amely lehetővé teszi az integrációt a online csevegőfunkciókat a webhelyeikbe. A csevegőszolgáltatás kiadása után Tamplin és Lee azt tapasztalta, hogy 
+azt olyan alkalmazási adatok átadására használták, amelyek nem csevegőüzenetek voltak. A fejlesztők az Envolve-ot arra használták, hogy az alkalmazásadatokat, például
+a játék állapotát szinkronizálják valós időben a felhasználóik között. Tamplin és Lee úgy döntött, hogy szétválasztják a csevegő rendszert és az azt működtető valós 
+idejű architektúrát. 2011-ben alapították meg a Firebase-t különálló vállalatként, és elindították a nyilvánosság számára 2012 áprilisában.
