@@ -54,7 +54,8 @@ Megjegyzés: Az ábra csupán demonstráló értékű.
 
 A kvíz alkalmazásunk által tárolt személyes információkat JSON fájlban akarjuk tárolni. Ebbe beleértve a felhasználói adatokat, valamint az adminisztrátoraink által
 feltöltött kvíz kérdéseket is (az ő adataik mellett). Az oldalnak képesnek kell lennie eltárolni a megadott adatokat regisztrálás után, valamint beolvasni és
-értelmezni ezen adatokat bejelentkezéskor, valamint az alkalmazás használata közben is.
+értelmezni ezen adatokat bejelentkezéskor, valamint az alkalmazás használata közben is. Az adattárolás a következő tárhelyszolgáltatással lesz megvalósítva: Firebase.
+Itt fogjuk tárolni az adatokat a felhasználokról. Minden adat tárolás a jogszabályoknak megfelelően lesznek tárolva. 
 
 
 ## 4. Alkalmazás menüjeinek kialakítása
