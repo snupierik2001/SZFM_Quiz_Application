@@ -46,7 +46,6 @@ Itt a felhasználó dönthet, hogy bejelentkezik fiókjával, regisztrál egy ú
 Bizonyos funkciók, mint például pontszám és előrelépések mentése is elérhetőek, csupán regisztrált felhasználóknak. <br>
 Erre egy külön oldalon lesz lehetőség. <br>
 
-
 A regisztrációs lap tervezett mezői: <br>
 
 - Email cím*
@@ -77,7 +76,6 @@ A felhasználó megtekintheti, hogy az eddigi megválaszolt kérdései milyen ar
 
 Értékelés: <br>
 A felhasználó egytől ötig pontozhatja a kérdések hasznosságát/ érdekességét. <br>
-
 
 ## 3.0 Koncepciós alkamazásbeli navigációs ábra
 > ![funk.spec](./images/quizapplicationconcept.png 'Koncepciós ábra')
