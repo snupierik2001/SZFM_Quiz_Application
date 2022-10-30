@@ -82,7 +82,7 @@ játékunkat akár egy sötétebb környezetben is. Fontosnak tartjuk, hogy egy 
 és nagyok is egyaránt élvezni tudjanak. Könnyen kezelhetőség érdekében letisztult formákat, ikonokat és dizájnt használunk. Külön ablakban lesz sor a regisztrációra,
 ahol e-mail cím, jelszó és felhasználónév megadása kötelező. A kvíz játékunk különböző témakörei szintén egy egy másik ablakban lesz megjelenítve. A témakör sikeres
 kiválasztása után megjelennek a kérdések. Bejelentkezett felhasználó esetén lehetőség van ott folytatni a kérdések megválaszolását, ahol a felhasználó az utóbbi játéka
-során abbahagyta
+során abbahagyta. 
 
 ![rendszerterv](./images/quizapplicationconcept.png "Ábra") <br>
 Megjegyzés: Az ábra csupán demonstráló értékű.
@@ -116,8 +116,13 @@ követően): adminisztrátor és felhasználó. <br>
 -Eléri az összes kvíz kérdést <br>
 -Eléri az összes témakört <br>
 
+## 7. A vízesés (waterfall) modell <br>
+A vízesés modell a lineáris módszertan egyik legismertebb képviselője. Az amerikai haditengerészet által létrehozott módszert katonai szoftverek magas szintű 
+kivitelezéséhez alakították ki. A módszertan lényege, hogy a fejlesztést több részfolyamatra bontják és minden fázist az előző jóváhagyása és befejezése után
+indítanak el. A folyamat kidolgozása előre meghatározott sorrendben történik, így nagy hangsúlyt kell fektetni a rendszer megtervezésére. A módszertan előnye, hogy
+nem csak szoftverfejlesztési, hanem termékfejlesztési területen kiválóan alkalmazható magas fokú szabályozottsága révén.
 
-## 7. Fogalomtár
+## 8. Fogalomtár
 
 **Android Studio:**  <br>
 Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA
