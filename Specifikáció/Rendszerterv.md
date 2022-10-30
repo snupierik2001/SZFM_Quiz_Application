@@ -120,7 +120,14 @@ követően): adminisztrátor és felhasználó. <br>
 A vízesés modell a lineáris módszertan egyik legismertebb képviselője. Az amerikai haditengerészet által létrehozott módszert katonai szoftverek magas szintű 
 kivitelezéséhez alakították ki. A módszertan lényege, hogy a fejlesztést több részfolyamatra bontják és minden fázist az előző jóváhagyása és befejezése után
 indítanak el. A folyamat kidolgozása előre meghatározott sorrendben történik, így nagy hangsúlyt kell fektetni a rendszer megtervezésére. A módszertan előnye, hogy
-nem csak szoftverfejlesztési, hanem termékfejlesztési területen kiválóan alkalmazható magas fokú szabályozottsága révén.
+nem csak szoftverfejlesztési, hanem termékfejlesztési területen kiválóan alkalmazható magas fokú szabályozottsága révén.<br>
+
+**Előnyei:** <br>
+	-A fejlesztők és az ügyfél már a projekt elején pontosan tudják, hogy mi a leszállítandó termék, melyik részei mikor kerülnek bevezetésre.<br>
+	-Áttekinthetőbb a projekt fejlesztési fázisban, az ügyfél jobban tudja, hogy hol áll a fejlesztés, az előrehaladás jobban mérhető, átláthatóbb.<br>
+	-Egy nem nagyon komplex munka esetében költségkímélőbb az agilis fejlesztési módszernél, a sok iteráció elhagyása miatt.<br>
+	-Az ügyfél részéről nem igényel olyan nagy mértékű bevonódást mint az agilis fejlesztés.<br>
+	-Mivel a projekt korai szakaszában megtervezésre kerülnek az egyes szoftver elemek, később ezek fejlesztés párhuzamosan is folyhat, ezért gyorsabb a fejlesztés mint az agilis módszertan.<br>
 
 ## 8. Fogalomtár
 
