@@ -139,25 +139,24 @@ appról.<br>
 ## 10. Fogalomtár
 
 **Android Studio:**  <br>
-Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA
-software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems. It is a replacement for
-the Eclipse Android Development Tools (E-ADT) as the primary IDE for native Android application development. <br>
+Az Android Studio a Google Android operációs rendszerének hivatalos integrált fejlesztőkörnyezete (IDE), amely a JetBrains IntelliJ IDEA-ra épül.
+szoftverre épül, és kifejezetten Android-fejlesztésre tervezték. Letölthető Windows, macOS és Linux alapú operációs rendszerekre. Ez a program helyettesíti a
+az Eclipse Android Development Tools (E-ADT) mint a natív Android alkalmazások fejlesztéséhez használt elsődleges IDE. <br>
 
 **Kotlin:** <br>
-Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, 
-and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. Kotlin mainly targets 
-the JVM, but also compiles to JavaScript or native code via LLVM Language development costs are borne by JetBrains, while the Kotlin Foundation protects the Kotlin
-trademark. <br>
+A Kotlin egy platformokon átívelő, statikusan tipizált, általános célú programozási nyelv típuskövetkeztetéssel. A Kotlint úgy tervezték, hogy teljes mértékben együttműködjön a Javával, 
+és a Kotlin szabványkönyvtárának JVM-verziója a Java Class Library-től függ, de a típuskövetés lehetővé teszi, hogy szintaxisa tömörebb legyen. A Kotlin elsősorban a következőket célozza 
+JVM-et célozza, de az LLVM segítségével JavaScript vagy natív kódba is fordítható A nyelvfejlesztési költségeket a JetBrains viseli, míg a Kotlin Foundation védi a Kotlin védjegyet. <br>
 
 **Firebase:** <br>
-Firebase is a set of hosting services for any type of application (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). It offers NoSQL and real-time hosting
-of databases, content, social authentication (Google, Facebook, Twitter and Github), and notifications, or services, such as a real-time communication server.
-Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of 
-online chat functionality into their websites.
-After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to 
-sync application data such as game state in real time across their users. 
-Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it. They founded Firebase as a separate company in 2011 and it launched 
-to the public in April 2012
+A Firebase egy sor tárhelyszolgáltatás bármilyen típusú alkalmazáshoz (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). NoSQL és valós idejű tárhelyet kínál
+adatbázisok, tartalmak, közösségi hitelesítés (Google, Facebook, Twitter és Github) és értesítések, illetve szolgáltatások, például valós idejű kommunikációs szerver.
+A Firebase a James Tamplin és Andrew Lee által 2011-ben alapított Envolve nevű korábbi startupból fejlődött ki. Az Envolve olyan API-t biztosított a fejlesztőknek, amely lehetővé teszi az integrációt a 
+online csevegőfunkciókat a webhelyeikbe.
+A csevegőszolgáltatás kiadása után Tamplin és Lee azt tapasztalta, hogy azt olyan alkalmazási adatok átadására használták, amelyek nem csevegőüzenetek voltak. A fejlesztők az Envolve-ot arra használták, hogy 
+az alkalmazásadatokat, például a játék állapotát szinkronizálják valós időben a felhasználóik között. 
+Tamplin és Lee úgy döntött, hogy szétválasztják a csevegő rendszert és az azt működtető valós idejű architektúrát. 2011-ben alapították meg a Firebase-t különálló vállalatként, és elindították a 
+a nyilvánosság számára 2012 áprilisában.
 
 
 
