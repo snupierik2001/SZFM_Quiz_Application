@@ -19,8 +19,9 @@ class GuestLoginActivity : AppCompatActivity() {
         binding.gotoQuizGame.setOnClickListener {
             val name = binding.name.text.toString()
             if(name.isNotEmpty()){
-                val intent = Intent(this, MainActivity::class.java)
+                val intent = Intent(this, QuizQuestionsActivity::class.java)
                 startActivity(intent)
+                finish()
             }else{
                 Toast.makeText(this, "Ön nem adott meg nevet!", Toast.LENGTH_SHORT).show()
             }
