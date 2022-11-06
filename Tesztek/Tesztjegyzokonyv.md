@@ -56,3 +56,12 @@
     Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
     Konklúzió: A teszt sikerességgel zárult
     Megjegyzés: Az felületek funkcionalitásainak megvalósítása következik
+    
+### 6. teszt: A kérdések helyes megjelenítése, és a válaszok közötti kattintásokra reagálása
+
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.11.06. 23:25
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A kérdés jó helyen jelen meg, lehetséges választások közötti csere
+    Kapott eredmény: A kérdés jó helyen jelen meg, lehetséges választások közötti csere
+    Konklúzió: A teszt sikerességgel zárult
