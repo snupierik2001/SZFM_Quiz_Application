@@ -9,7 +9,7 @@ object Constants {
         val QuestionList = ArrayList<Question>()
 
         val QuestionOne = Question(1, "Milyen programozási nyelvnek ez a ikonja?",
-        R.drawable.javaIkon,
+        R.drawable.javaikon,
             "Java",
             "Phyton",
             "Oracle",
