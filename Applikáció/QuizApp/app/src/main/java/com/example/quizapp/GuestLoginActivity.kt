@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import com.example.quizapp.databinding.ActivityGuestLoginBinding
-import com.example.quizapp.databinding.ActivityHomeScreenBinding
 
 class GuestLoginActivity : AppCompatActivity() {
 
@@ -19,9 +18,9 @@ class GuestLoginActivity : AppCompatActivity() {
         binding.gotoQuizGame.setOnClickListener {
             val name = binding.name.text.toString()
             if(name.isNotEmpty()){
-                val intent = Intent(this, QuizQuestionsActivity::class.java)
+                val intent = Intent(this, SelectQuizActivity::class.java)
+                intent.putExtra(Constants.USER_NAME,binding.name.text.toString())
                 startActivity(intent)
-                finish()
             }else{
                 Toast.makeText(this, "Ön nem adott meg nevet!", Toast.LENGTH_SHORT).show()
             }

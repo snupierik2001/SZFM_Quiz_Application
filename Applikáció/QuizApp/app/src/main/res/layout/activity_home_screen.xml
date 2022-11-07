@@ -51,7 +51,7 @@
                 android:text="@string/login_with_profile"
                 android:textSize="15sp"
                 android:textColor="@android:color/white"
-                android:background="@color/Royal_Blue"/>
+                android:background="@drawable/home_page_option_border"/>
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/goto_registration"
@@ -61,7 +61,7 @@
                 android:text="@string/registration_title"
                 android:textSize="15sp"
                 android:textColor="@android:color/white"
-                android:background="@color/Royal_Blue_Dark"/>
+                android:background="@drawable/home_page_option_border"/>
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/goto_guest_login"
@@ -71,7 +71,7 @@
                 android:text="@string/login_without_profile"
                 android:textSize="15sp"
                 android:textColor="@color/white"
-                android:background="@android:color/darker_gray"/>
+                android:background="@drawable/home_page_option_border"/>
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>

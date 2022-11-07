@@ -13,24 +13,62 @@
         android:theme="@style/NoActionBarTheme"
         tools:targetApi="31">
         <activity
+            android:name=".ForgotPasswordActivity"
+            android:exported="false"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/NoActionBarTheme"
+            android:windowSoftInputMode="adjustResize">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SelectQuizActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoActionBarTheme"
+            android:windowSoftInputMode="adjustResize"
+            tools:ignore="LockedOrientationActivity">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".ResultActivity"
             android:exported="false"
+            android:screenOrientation="fullSensor"
             android:theme="@style/NoActionBarTheme"
-            android:screenOrientation="portrait">
+            android:windowSoftInputMode="adjustResize">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".QuizQuestionsActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"
+            tools:ignore="LockedOrientationActivity">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".GuestLoginActivity"
-            android:exported="false">
+            android:exported="false"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/NoActionBarTheme"
+            android:windowSoftInputMode="adjustResize">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
             android:name=".HomeScreenActivity"
-            android:exported="true">
+            android:exported="true"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/NoActionBarTheme"
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -43,7 +81,10 @@
         </activity>
         <activity
             android:name=".LoginActivity"
-            android:exported="false">
+            android:exported="false"
+            android:screenOrientation="fullSensor"
+            android:theme="@style/NoActionBarTheme"
+            android:windowSoftInputMode="adjustResize">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
@@ -51,15 +92,8 @@
         <activity
             android:name=".RegistrationActivity"
             android:exported="false"
-            tools:ignore="ExtraText">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".MainActivity"
-            android:exported="false"
             android:screenOrientation="fullSensor"
+            android:theme="@style/NoActionBarTheme"
             android:windowSoftInputMode="adjustResize">
             <meta-data
                 android:name="android.app.lib_name"

@@ -22,10 +22,9 @@ class LoginActivity : AppCompatActivity() {
 
         // "Nincs fiókja?.." gomb megnyomására áttér a regisztrációs menüre.
         binding.gotoRegistration.setOnClickListener {
-            val intent = Intent(this, RegistrationActivity::class.java)
-            startActivity(intent)
+            startActivity(Intent(this, RegistrationActivity::class.java))
         }
-
+        
         // Email és jelszó lekérése adatbázisból és bejelentkeztetés ha egyik mező se üres és létezik a fiók.
         binding.loginBtn.setOnClickListener {
             val email = binding.emailEt.text.toString()
@@ -34,8 +33,7 @@ class LoginActivity : AppCompatActivity() {
             if (email.isNotEmpty() && pass.isNotEmpty()) {
                 firebaseAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener {
                     if (it.isSuccessful) {
-                        val intent = Intent(this, MainActivity::class.java)
-                        startActivity(intent)
+                        startActivity(Intent(this, SelectQuizActivity::class.java))
                     } else {
                         Toast.makeText(this, "Nincs ilyen fiók regisztrálva!", Toast.LENGTH_SHORT).show()
                     }
@@ -44,17 +42,10 @@ class LoginActivity : AppCompatActivity() {
                 Toast.makeText(this, "Nem maradhat üresen mező!", Toast.LENGTH_SHORT).show()
             }
         }
-    }
 
-    // Ha már van fiókkal bejelentkezve, akkor eleve azzal jelentkezik be:
-    /*
-    override fun onStart() {
-        super.onStart()
-
-        if(firebaseAuth.currentUser != null){
-            val intent = Intent(this, MainActivity::class.java)
-            startActivity(intent)
+        binding.gotoForgotPassword.setOnClickListener{
+            startActivity(Intent(this, ForgotPasswordActivity::class.java))
         }
     }
-    */
+
 }

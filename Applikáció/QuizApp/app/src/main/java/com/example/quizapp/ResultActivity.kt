@@ -4,6 +4,8 @@ import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.ImageView
+import com.bumptech.glide.Glide
 import com.example.quizapp.databinding.ActivityResultBinding
 
 class ResultActivity : AppCompatActivity() {
@@ -13,20 +15,26 @@ class ResultActivity : AppCompatActivity() {
     @SuppressLint("SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        binding = ActivityResultBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding = ActivityResultBinding.inflate(layoutInflater)
+        val username = intent.getStringExtra(Constants.USER_NAME)
+        binding.tvName.text = username
+        val totalQuestions = intent.getIntExtra(Constants.TOTAL_QUESTIONS,0)
+        val correctAnswer = intent.getIntExtra(Constants.CORRECT_ANSWERS,0)
 
-        val userName = intent.getStringExtra(Constants.USER_NAME)
-        binding.tvName.text = userName
+        binding.tvScore.text = "$correctAnswer / $totalQuestions kérdést válaszolt meg helyesen."
 
-        val totalQuestions = intent.getIntExtra(Constants.TOTAL_QUESTIONS, 0)
-        val correctAnswers = intent.getIntExtra(Constants.CORRECT_ANSWERS, 0)
+        showGIF()
 
-        binding.tvScore.text = "$correctAnswers pontszáma lett a $totalQuestions kérdésből."
-
-        binding.btnFinish.setOnClickListener {
-            startActivity(Intent(this@ResultActivity, MainActivity::class.java))
+        binding.btnFinish.setOnClickListener{
+            startActivity(Intent(this, HomeScreenActivity::class.java))
+            finish()
         }
+    }
+
+    private fun showGIF(){
+        val imageView: ImageView = findViewById(R.id.iv_congrats)
+        Glide.with(this).load(R.drawable.leonardo_congrats).into(imageView)
     }
 }

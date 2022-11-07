@@ -4,7 +4,7 @@
     <string name="password_hint">Jelszó</string>
     <string name="confirm_password_hint">Jelszó ismét</string>
     <string name="registration_title">Regisztráció</string>
-    <string name="create_profile_btn">FIók létrehozása</string>
+    <string name="create_profile_btn">Fiók létrehozása</string>
     <string name="already_user_link">Már van fiókja? Jelentkezzen be!</string>
     <string name="login_title">Bejelentkezés</string>
     <string name="goto_registration">Nincs még fiókja? Regisztráljon!</string>
@@ -16,4 +16,21 @@
     <string name="choose_from_the_btns">Válasszon az alábbi opciók közül:</string>
     <string name="login_with_profile">Bejelentkezés fiókkal</string>
     <string name="login_without_profile">Bejelentkezés vendégként</string>
+    <string name="question_image">Question image</string>
+    <string name="topic_image">Topic image</string>
+    <string name="forgotten_password">Elfelejtett jelszó</string>
+    <string name="please_enter_restore_email">Kérem adja meg az email címet jelszavának visszaállításához!</string>
+    <string name="send_email">Email küldése</string>
+    <string name="forgot_my_password">Elfelejtettem a jelszavamat!</string>
+    <string name="send">KÜLDÉS</string>
+    <string name="results">Eredmények</string>
+    <string name="congratulations">Gratulálunk!</string>
+    <string name="finish_quiz">Kvíz befejezése</string>
+    <string name="sign_out">Kijelentkezés</string>
+    <string name="welcome_text">Üdvözöljük a Kvíz Applikációban!</string>
+    <string name="choose_topic_text">Válasszon az alábbi kvíz témák közül \n és kezdje el a játékot:</string>
+    <string name="movies_topic">Filmek</string>
+    <string name="games_topic">Játékok</string>
+    <string name="history_topic">Történelem</string>
+    <string name="geography_topic">Földrajz</string>
 </resources>
