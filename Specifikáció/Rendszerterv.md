@@ -136,6 +136,10 @@ hogy más applikációkban nem szerepelhetnek a mi applikációnkról reklám. S
 appról.<br>
 
 
+![rendszerterv](./images/marketing.png "Ábra") <br>
+Megjegyzés: Az ábra csupán demonstráló értékű.
+
+
 ## 10. Fogalomtár
 
 **Android Studio:**  <br>
