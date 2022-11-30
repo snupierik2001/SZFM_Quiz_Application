@@ -128,12 +128,18 @@ nem csak szoftverfejlesztési, hanem termékfejlesztési területen kiválóan a
 	-Egy nem nagyon komplex munka esetében költségkímélőbb az agilis fejlesztési módszernél, a sok iteráció elhagyása miatt.<br>
 	-Az ügyfél részéről nem igényel olyan nagy mértékű bevonódást mint az agilis fejlesztés.<br>
 	-Mivel a projekt korai szakaszában megtervezésre kerülnek az egyes szoftver elemek, később ezek fejlesztés párhuzamosan is folyhat, ezért gyorsabb a fejlesztés mint az agilis módszertan.<br>
+	
+	
+![rendszerterv](./images/waterfall.png "Ábra") <br>
 
 ## 9. Marketing <br>
 
 Az applikációban nem lesznek reklámok mivel nem szeretnénk, hogy a felhasználóinkra negatív hatással legyenek a	folyamatosan megjelenő reklámok. Ezt nem azt jelenti, 
 hogy más applikációkban nem szerepelhetnek a mi applikációnkról reklám. Szeretnénk ezt több multimédiás felületen feltüntetni, hogy minél többen tudjanak a quiz
 appról.<br>
+
+
+![rendszerterv](./images/marketing.png "Ábra") <br>
 
 
 ## 10. Fogalomtár
