@@ -33,4 +33,5 @@
     <string name="games_topic">Játékok</string>
     <string name="history_topic">Történelem</string>
     <string name="geography_topic">Földrajz</string>
+    <string name="rate_question">Értékelje a kérdéssort!</string>
 </resources>

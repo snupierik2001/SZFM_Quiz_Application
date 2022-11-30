@@ -20,6 +20,7 @@ class GuestLoginActivity : AppCompatActivity() {
             if(name.isNotEmpty()){
                 val intent = Intent(this, SelectQuizActivity::class.java)
                 intent.putExtra(Constants.USER_NAME,binding.name.text.toString())
+                println(Constants.USER_NAME)
                 startActivity(intent)
             }else{
                 Toast.makeText(this, "Ön nem adott meg nevet!", Toast.LENGTH_SHORT).show()

@@ -18,11 +18,13 @@ class ResultActivity : AppCompatActivity() {
         binding = ActivityResultBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val username = intent.getStringExtra(Constants.USER_NAME)
-        binding.tvName.text = username
-        val totalQuestions = intent.getIntExtra(Constants.TOTAL_QUESTIONS,0)
-        val correctAnswer = intent.getIntExtra(Constants.CORRECT_ANSWERS,0)
 
+        val username = intent!!.getStringExtra(Constants.USER_NAME)
+        println(username)
+        val totalQuestions = intent!!.getIntExtra(Constants.TOTAL_QUESTIONS,0)
+        val correctAnswer = intent!!.getIntExtra(Constants.CORRECT_ANSWERS,0)
+
+        binding.tvName.text = username
         binding.tvScore.text = "$correctAnswer / $totalQuestions kérdést válaszolt meg helyesen."
 
         showGIF()

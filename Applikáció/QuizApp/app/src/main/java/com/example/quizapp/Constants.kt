@@ -1,10 +1,7 @@
-@file:Suppress("unused", "unused", "unused", "unused", "unused", "unused", "unused")
-
 package com.example.quizapp
 
 import kotlin.collections.ArrayList
 
-@Suppress("unused", "unused", "unused", "unused", "unused", "unused", "unused")
 object Constants {
 
     const val USER_NAME: String = "user_name"
