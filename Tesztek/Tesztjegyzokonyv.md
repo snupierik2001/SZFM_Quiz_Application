@@ -96,3 +96,34 @@
     Várt eredmény: Gomb hátterének piros színre változása helytelen válasz esetén
     Kapott eredmény: Gomb hátterének piros színre változása helytelen válasz esetén
     Konklúzió: A teszt sikerességgel zárult
+    
+### 10. teszt: Helyes pontszám  megjelenítésének tesztelése
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 14:56
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Elért pontszám helyes megjelenítése
+    Kapott eredmény: Elért pontszám helyes megjelenítése
+    Konklúzió: A teszt sikerességgel zárult
+
+### 5. teszt: Pontszám felület megjelenítésének tesztelése
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 15:06
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Elért pontszám helyes megjelenítése
+    Kapott eredmény: Elért pontszám helyes megjelenítése
+    Konklúzió: A teszt sikerességgel zárult
+
+### 5. teszt: Kérdések randomizált megjelenítésének tesztelése
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 16:12
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Kérdések megjelenése véletlenszerű sorrendben
+    Kapott eredmény: Kérdések megjelenése véletlenszerű sorrendben
+    Konklúzió: A teszt sikerességgel zárult
+
