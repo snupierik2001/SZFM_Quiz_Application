@@ -107,7 +107,7 @@
     Kapott eredmény: Elért pontszám helyes megjelenítése
     Konklúzió: A teszt sikerességgel zárult
 
-### 5. teszt: Pontszám felület megjelenítésének tesztelése
+### 11. teszt: Pontszám felület megjelenítésének tesztelése
 
     Tesztelő neve: Török Szabina Márta
     Tesztelés ideje: 2022.12.02. 15:06
@@ -117,7 +117,7 @@
     Kapott eredmény: Elért pontszám helyes megjelenítése
     Konklúzió: A teszt sikerességgel zárult
 
-### 5. teszt: Kérdések randomizált megjelenítésének tesztelése
+### 12. teszt: Kérdések randomizált megjelenítésének tesztelése
 
     Tesztelő neve: Török Szabina Márta
     Tesztelés ideje: 2022.12.02. 16:12
@@ -125,5 +125,35 @@
     Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
     Várt eredmény: Kérdések megjelenése véletlenszerű sorrendben
     Kapott eredmény: Kérdések megjelenése véletlenszerű sorrendben
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 13. teszt: App navigálásának tesztelése a pontszám felületről
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 17:24
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Gombra kattintva a bejelentkezési felületre érkezünk
+    Kapott eredmény: Gombra kattintva a bejelentkezési felületre érkezünk
+    Konklúzió: A teszt sikerességgel zárult
+
+### 14. teszt: Megfelelő kérdéssor megjelenítésének tesztelése történelmi témakörhöz
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 19:12
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Történelem témakört kiválasztva megfelelő kérdéssor jelenik meg
+    Kapott eredmény: Történelem témakört kiválasztva megfelelő kérdéssor jelenik meg
+    Konklúzió: A teszt sikerességgel zárult
+
+### 15. teszt: Megfelelő kérdéssor megjelenítésének tesztelése filmek témakörhöz
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 19:31
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Filmek témakört kiválasztva megfelelő kérdéssor jelenik meg
+    Kapott eredmény: Filmek témakört kiválasztva megfelelő kérdéssor jelenik meg
     Konklúzió: A teszt sikerességgel zárult
 
