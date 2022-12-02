@@ -101,7 +101,7 @@
 
     Tesztelő neve: Török Szabina Márta
     Tesztelés ideje: 2022.12.02. 14:56
-    Tesztelt rendszer: Alap dizájn
+    Tesztelt rendszer: Funkcionalitás
     Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
     Várt eredmény: Elért pontszám helyes megjelenítése
     Kapott eredmény: Elért pontszám helyes megjelenítése
@@ -111,10 +111,10 @@
 
     Tesztelő neve: Török Szabina Márta
     Tesztelés ideje: 2022.12.02. 15:06
-    Tesztelt rendszer: Funkcionalitás
+    Tesztelt rendszer: Alap dizájn 
     Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
-    Várt eredmény: Elért pontszám helyes megjelenítése
-    Kapott eredmény: Elért pontszám helyes megjelenítése
+    Várt eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
     Konklúzió: A teszt sikerességgel zárult
 
 ### 12. teszt: Kérdések randomizált megjelenítésének tesztelése
@@ -155,5 +155,35 @@
     Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
     Várt eredmény: Filmek témakört kiválasztva megfelelő kérdéssor jelenik meg
     Kapott eredmény: Filmek témakört kiválasztva megfelelő kérdéssor jelenik meg
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 16. teszt: Megfelelő kérdéssor megjelenítésének tesztelése földrajzi témakörhöz
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 19:45
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Földrajz témakört kiválasztva megfelelő kérdéssor jelenik meg
+    Kapott eredmény: Földrajz témakört kiválasztva megfelelő kérdéssor jelenik meg
+    Konklúzió: A teszt sikerességgel zárult
+
+### 17. teszt: Megfelelő kérdéssor megjelenítésének tesztelése játékok témakörhöz
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 19:59
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Játékok témakört kiválasztva megfelelő kérdéssor jelenik meg
+    Kapott eredmény: Játékok témakört kiválasztva megfelelő kérdéssor jelenik meg
+    Konklúzió: A teszt sikerességgel zárult
+
+### 18. teszt: Pontszám felület megjelenésének tesztelése kérdéssor befejeztével
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 20:24
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Pontszám felület megjelenése kérdéssor végeztével
+    Kapott eredmény: Pontszám felület megjelenése kérdéssor végeztével
     Konklúzió: A teszt sikerességgel zárult
 
