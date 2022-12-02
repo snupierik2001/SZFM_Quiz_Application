@@ -65,3 +65,34 @@
     Várt eredmény: A kérdés jó helyen jelen meg, lehetséges választások közötti csere
     Kapott eredmény: A kérdés jó helyen jelen meg, lehetséges választások közötti csere
     Konklúzió: A teszt sikerességgel zárult
+    
+### 7. teszt: A kérdéssort értékelő rating bar megjelenítésének tesztelése, reszponzivitás
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 13:57
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: 5 csillag megjelenítése, ezekre kattintva értékelés lehetősége
+    Kapott eredmény: 5 csillag megjelenítése, ezekre kattintva értékelés lehetősége
+    Konklúzió: A teszt sikerességgel zárult
+
+### 8. teszt: Helyes válasz kiválasztásának megjelenítésének tesztelése
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 14:12
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Gomb hátterének zöld színre változása helyes válasz esetén
+    Kapott eredmény: Gomb hátterének zöld színre változása helyes válasz esetén
+    Konklúzió: A teszt sikerességgel zárult
+    Megjegyzés: Helytelen válasz dizájn megírása következik
+
+### 9. teszt: Helytelen válasz kiválasztásának megjelenítésének tesztelése
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 14:21
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Gomb hátterének piros színre változása helytelen válasz esetén
+    Kapott eredmény: Gomb hátterének piros színre változása helytelen válasz esetén
+    Konklúzió: A teszt sikerességgel zárult
