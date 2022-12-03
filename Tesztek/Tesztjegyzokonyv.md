@@ -296,5 +296,125 @@
     Várt eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
     Kapott eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
     Konklúzió: A teszt sikerességgel zárult
+    
+### 30. teszt: Válasz kiválasztás funkció tesztelése földrajzi témakör esetén
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 16:04
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Kérdés esetén csak egyetlen választ lehet megjelölni
+    Kapott eredmény: Kérdés esetén csak egyetlen választ lehet megjelölni
+    Konklúzió: A teszt sikerességgel zárult
+
+### 31. teszt: Válasz kiválasztás funkció tesztelése történelmi témakör esetén
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 16:12
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Kérdés esetén csak egyetlen választ lehet megjelölni
+    Kapott eredmény: Kérdés esetén csak egyetlen választ lehet megjelölni
+    Konklúzió: A teszt sikerességgel zárult
+
+### 32. teszt: Válasz kiválasztás funkció tesztelése filmek témakör esetén
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 16:35
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Kérdés esetén csak egyetlen választ lehet megjelölni
+    Kapott eredmény: Kérdés esetén csak egyetlen választ lehet megjelölni
+    Konklúzió: A teszt sikerességgel zárult
+
+### 33. teszt: Válasz kiválasztás funkció tesztelése játékok témakör esetén
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 16:47
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Kérdés esetén csak egyetlen választ lehet megjelölni
+    Kapott eredmény: Kérdés esetén csak egyetlen választ lehet megjelölni
+    Konklúzió: A teszt sikerességgel zárult
+
+### 34. teszt: Küldés gomb funkcionalitásának tesztelése földrajzi témakör esetén
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 16:59
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Megválaszolt kérdést követően nem lehet választ változtatni 
+    Kapott eredmény: Megválaszolt kérdést követően nem lehet választ változtatni
+    Konklúzió: A teszt sikerességgel zárult
+
+### 35. teszt: Küldés gomb funkcionalitásának tesztelése történelmi témakör esetén
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 17:07
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Megválaszolt kérdést követően nem lehet választ változtatni 
+    Kapott eredmény: Megválaszolt kérdést követően nem lehet választ változtatni
+    Konklúzió: A teszt sikerességgel zárult
+
+### 36. teszt: Küldés gomb funkcionalitásának tesztelése filmek témakör esetén
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 17:19
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Megválaszolt kérdést követően nem lehet választ változtatni 
+    Kapott eredmény: Megválaszolt kérdést követően nem lehet választ változtatni
+    Konklúzió: A teszt sikerességgel zárult
+
+### 37. teszt: Küldés gomb funkcionalitásának tesztelése játékok témakör esetén
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 17:30
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Megválaszolt kérdést követően nem lehet választ változtatni 
+    Kapott eredmény: Megválaszolt kérdést követően nem lehet választ változtatni
+    Konklúzió: A teszt sikerességgel zárult
+
+### 38. teszt: Kezdőoldal navigálásának tesztelése
+   
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 17:47
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Kijelölt gombok megnyomásával megfelelő oldalra navigálunk 
+    Kapott eredmény: Kijelölt gombok megnyomásával megfelelő oldalra navigálunk
+    Konklúzió: A teszt sikerességgel zárult
+
+### 39. teszt: Regisztrációs felület funkcionalitásának tesztelése
+    
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 17:56
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információkat követően sikeres regisztráció, hiba esetén hibajelzés 
+    Kapott eredmény: Helyesen megadott információkat követően sikeres regisztráció, hiba esetén hibajelzés
+    Konklúzió: A teszt sikerességgel zárult
+
+### 40. teszt: Bejelentkezési felület funkcionalitásának tesztelése
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 18:12
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információkat követően sikeres bejelentkezés, hiba esetén hibajelzés 
+    Kapott eredmény: Helyesen megadott információkat követően sikeres bejelentkezés, hiba esetén hibajelzés
+    Konklúzió: A teszt sikerességgel zárult
+
+### 41. teszt: Vendég felület funkcionalitásának tesztelése
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 18:30
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően sikeres bejelentkezés, hiba esetén hibajelzés 
+    Kapott eredmény: Helyesen megadott információt követően sikeres bejelentkezés, hiba esetén hibajelzés
+    Konklúzió: A teszt sikerességgel zárult
 
 
