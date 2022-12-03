@@ -418,3 +418,93 @@
     Konklúzió: A teszt sikerességgel zárult
 
 
+### 42. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 18:25
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
+    ### 41. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    
+    
+### 43. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 16:25
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
+        
+    
+### 44. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 16:53
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
+        
+    
+### 45. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 17:01
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
+        
+    
+### 46. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 17:08
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
+    
+    
+ ### 47. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 17:31
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
+    
+  
+ ### 48. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 17:48
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
+    
+    
+ ### 49. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 18:08
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
+    
+    
+ ### 50. teszt: Változó kérdések és változó válaszok sorrendje tesztje
+    Tesztelő neve: Kovács Erik
+    Tesztelés ideje: 2022.12.03. 18:19
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
+    Konklúzió: A teszt sikerességgel zárult
