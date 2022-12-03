@@ -186,4 +186,45 @@
     Várt eredmény: Pontszám felület megjelenése kérdéssor végeztével
     Kapott eredmény: Pontszám felület megjelenése kérdéssor végeztével
     Konklúzió: A teszt sikerességgel zárult
+    
+### 19. teszt: A földrajzi kérdéssor felület megjelenítésének tesztelése, reszponzivitás
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 21:03
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Konklúzió: A teszt sikerességgel zárult
+
+### 20. teszt: A történelmi kérdéssor felület megjelenítésének tesztelése, reszponzivitás
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 09:03
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Konklúzió: A teszt sikerességgel zárult
+
+### 21. teszt: A filmek kérdéssor felület megjelenítésének tesztelése, reszponzivitás
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 09:26
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Konklúzió: A teszt sikerességgel zárult
+
+### 22. teszt: A játékok kérdéssor felület megjelenítésének tesztelése, reszponzivitás
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.02. 10:01
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Konklúzió: A teszt sikerességgel zárult
+
 
