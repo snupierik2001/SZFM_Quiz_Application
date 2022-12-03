@@ -220,11 +220,81 @@
 ### 22. teszt: A játékok kérdéssor felület megjelenítésének tesztelése, reszponzivitás
 
     Tesztelő neve: Török Szabina Márta
-    Tesztelés ideje: 2022.12.02. 10:01
+    Tesztelés ideje: 2022.12.03. 10:01
     Tesztelt rendszer: Alap dizájn
     Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
     Várt eredmény: A dizájn megfelelő megjelenése, reszponzivitás
     Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 23. teszt: Elfelejtett jelszó felület megjelenítésének tesztelése, reszponzivitás
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 13:08
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Konklúzió: A teszt sikerességgel zárult
+
+### 24. teszt: Témakörök felület megjelenítésének tesztelése, reszponzivitás
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 13:24
+    Tesztelt rendszer: Alap dizájn
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Kapott eredmény: A dizájn megfelelő megjelenése, reszponzivitás
+    Konklúzió: A teszt sikerességgel zárult
+
+### 25. teszt: Kijelentkezés funkció helyes működése
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 14:12
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Kijelentkezés gombra kattintva bejelentkezési felületre kerülés
+    Kapott eredmény: Kijelentkezés gombra kattintva bejelentkezési felületre kerülés
+    Konklúzió: A teszt sikerességgel zárult
+
+### 26. teszt: Válaszok közötti navigáció tesztelése földrajzi témakör esetén
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 14:35
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
+    Kapott eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
+    Konklúzió: A teszt sikerességgel zárult
+
+### 27. teszt: Válaszok közötti navigáció tesztelése történelmi témakör esetén
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 14:53
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
+    Kapott eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
+    Konklúzió: A teszt sikerességgel zárult
+
+### 28. teszt: Válaszok közötti navigáció tesztelése filmek témakör esetén 
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 15:09
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
+    Kapott eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
+    Konklúzió: A teszt sikerességgel zárult
+
+### 29. teszt: Válaszok közötti navigáció tesztelése játékok témakör esetén
+
+    Tesztelő neve: Török Szabina Márta
+    Tesztelés ideje: 2022.12.03. 15:28
+    Tesztelt rendszer: Funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
+    Kapott eredmény: Következő kérdésre csak akkor térhetünk át, ha kiválasztottunk egy választ
     Konklúzió: A teszt sikerességgel zárult
 
 
