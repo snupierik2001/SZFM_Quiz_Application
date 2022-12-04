@@ -659,3 +659,43 @@
     Kapott eredmény: Az eredmények felületén helyesen megjelenik a GIF
     Konklúzió: A teszt sikerességgel zárult
     
+### 65. teszt: Az eredmények felület funkcionalitási (kérdések és válaszok száma) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.29. 10:11
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Az eredmények (hány kérdésből hány helyes) megfelelő megjelenítése
+    Kapott eredmény: Az eredmények (hány kérdésből hány helyes) megfelelő megjelenítése
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 66. teszt: Az eredmények felület funkcionalitási (rating működése) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.29. 12:45
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Az értékelés helyesen megjelenik és funkcionál
+    Kapott eredmény: Az értékelés helyesen megjelenik és funkcionál
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 67. teszt: Az eredmények felület funkcionalitási (visszalépés) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.30. 01:30
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Az értékelés felületről vissza lehet navigálni a témaválasztó felületre
+    Kapott eredmény: Az értékelés felületről vissza lehet navigálni a témaválasztó felületre
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 68. teszt: Az eredmények felület funkcionalitási (név megjelenítése) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.01. 12:54
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A megadott név megjelenik az eredményeknél
+    Kapott eredmény: A név nem jelenik meg az eredményeknél
+    Konklúzió: A teszt nem zárult sikerrel
+    
