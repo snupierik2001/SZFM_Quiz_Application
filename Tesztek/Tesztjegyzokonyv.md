@@ -508,3 +508,33 @@
     Várt eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
     Kapott eredmény: Helyesen megadott információt követően kérdések kategoria választása után a kérdések és a válaszok változó sorrendje
     Konklúzió: A teszt sikerességgel zárult
+    
+ ### 51. teszt: A felület gombjainak funkcionalitási tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.04. 12:46
+    Tesztelt rendszer: Gombok funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A bejelentkező gomb megfelelően navigál, szerepét betölti
+    Kapott eredmény: A bejelentkező gomb megfelelően navigál, szerepét betölti
+    Konklúzió: A teszt sikerességgel zárult
+    
+ ### 52. teszt: A felület gombjainak funkcionalitási tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.06. 14:36
+    Tesztelt rendszer: Gombok funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A regisztrációs gomb megfelelően navigál, szerepét betölti
+    Kapott eredmény: A regisztrációs gomb megfelelően navigál, szerepét betölti
+    Konklúzió: A teszt sikerességgel zárult
+
+ ### 53. teszt: A felület gombjainak funkcionalitási tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.12. 17:23
+    Tesztelt rendszer: Gombok funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A vendég belépés gomb megfelelően navigál, szerepét betölti
+    Kapott eredmény: A vendég gomb megfelelően navigál, szerepét betölti
+    Konklúzió: A teszt sikerességgel zárult
