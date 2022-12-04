@@ -699,3 +699,22 @@
     Kapott eredmény: A név nem jelenik meg az eredményeknél
     Konklúzió: A teszt nem zárult sikerrel
     
+### 69. teszt: A teljes applikáció lefuttatásának tesztelése
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.02. 14:23
+    Tesztelt rendszer: Teljes funkcionalitás
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Az applikáció teljesíti az elvárt funkciókat
+    Kapott eredmény: Az applikáció teljesíti az elvárt funkciókat
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 70. teszt: Az applikáció telefonra telepített verziójának tesztelése
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.03. 17:52
+    Tesztelt rendszer: Teljes funkcionalitása
+    Tesztkörnyezet: Realme 8i
+    Várt eredmény: Az applikáció teljesíti az elvárt funkciókat
+    Kapott eredmény: Az applikáció teljesíti az elvárt funkciókat
+    Konklúzió: A teszt sikerességgel zárult
