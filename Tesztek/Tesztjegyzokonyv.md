@@ -538,3 +538,53 @@
     Várt eredmény: A vendég belépés gomb megfelelően navigál, szerepét betölti
     Kapott eredmény: A vendég gomb megfelelően navigál, szerepét betölti
     Konklúzió: A teszt sikerességgel zárult
+
+### 54. teszt: A kvíz felület funkcionalitási (válaszadás) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.14. 14:30
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A válasz megfelelőlen kiválasztódik
+    Kapott eredmény: A válasz megfelelőlen kiválasztódik
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 55. teszt: A kvíz felület funkcionalitási (válasz beküldése) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.17. 15:43
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A válasz megfelelőlen leadásra kerül
+    Kapott eredmény: A válasz megfelelőlen leadásra kerül
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 56. teszt: A kvíz felület funkcionalitási (kérdések/válaszok megjelenítése) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.19. 12:03
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A témának megfelelő kérdések/válaszok megjelenítése
+    Kapott eredmény: A témának megfelelő kérdések/válaszok megjelenítése
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 57. teszt: A kvíz felület funkcionalitási (helyes/helytelen válasz megjelenítése) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.21. 14:56
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A válaszadás után megfelelően megjelenő helyes, esetlegesen helytelen válasz is
+    Kapott eredmény: A válaszadás után megfelelően megjelenő helyes, esetlegesen helytelen válasz is
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 58. teszt: A kvíz felület funkcionalitási (kérdések közötti navigáció) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.23. 18:12
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A válasz beküldése után képes a felhasználó tovább navigálni a következő kérdésre
+    Kapott eredmény: A válasz beküldése után képes a felhasználó tovább navigálni a következő kérdésre
+    Konklúzió: A teszt sikerességgel zárult
