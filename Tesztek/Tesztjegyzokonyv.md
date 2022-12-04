@@ -588,3 +588,74 @@
     Várt eredmény: A válasz beküldése után képes a felhasználó tovább navigálni a következő kérdésre
     Kapott eredmény: A válasz beküldése után képes a felhasználó tovább navigálni a következő kérdésre
     Konklúzió: A teszt sikerességgel zárult
+
+### 59. teszt: A kvíz felület funkcionalitási (kérdések közötti navigáció) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.26. 23:10
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A válasz beküldése után képes a felhasználó tovább navigálni a következő kérdésre
+    Kapott eredmény: A válasz beküldése után képes a felhasználó tovább navigálni a következő kérdésre
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 59. teszt: A kvíz felület funkcionalitási (tiltások) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.27. 21:13
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A válasz beküldése csak akkor legyen lehetséges ha válasz lett kiválasztva
+    Kapott eredmény: A válasz beküldése csak akkor lehetséges ha válasz lett kiválasztva
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 60. teszt: A kvíz felület funkcionalitási (válaszok sorrendje) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.28. 21:53
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A válaszok sorrendjének randomizálása
+    Kapott eredmény: A válaszok sorrendjének randomizálása
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 61. teszt: A kvíz felület funkcionalitási (kérdések sorrendje) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.28. 22:12
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A kérdések sorrendjének randomizálása
+    Kapott eredmény: A kérdések sorrendjének randomizálása
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 62. teszt: A témaválasztó felület funkcionalitási (megjelenítés) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.28. 22:34
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A kérdés témák helyes megjelenítése
+    Kapott eredmény: A kérdés témák helyes megjelenítése
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 63. teszt: A témaválasztó felület funkcionalitási (témákra navigálás) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.28. 22:52
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: A témára nyomva az annak megfelelő kérdések megjelenítése
+    Kapott eredmény: A témára nyomva az annak megfelelő kérdések megjelenítése
+    Konklúzió: A teszt sikerességgel zárult
+    
+### 64. teszt: Az eredmények felület funkcionalitási (GIF megjelenítése) tesztje
+
+    Tesztelő neve: Szanyi Manó Hunor
+    Tesztelés ideje: 2022.11.29. 09:21
+    Tesztelt rendszer: Felület funkcionalitása
+    Tesztkörnyezet: Android Studio Dolphin | 2021.3.1 | Build #AI-213.7172.25.2113.9014738
+    Várt eredmény: Az eredmények felületén helyesen megjelenik a GIF
+    Kapott eredmény: Az eredmények felületén helyesen megjelenik a GIF
+    Konklúzió: A teszt sikerességgel zárult
+    
